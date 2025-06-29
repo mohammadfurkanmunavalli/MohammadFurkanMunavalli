@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Furkan Munavalli
 
-<!--
-**mohammadfurkanmunavalli/mohammadfurkanmunavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Student | 💻 Full-Stack Developer |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a passionate **Web Developer** and aspiring **Software Engineer** with a strong foundation in full-stack development.  
+From designing responsive frontends to implementing secure backend systems, I enjoy solving real-world problems through code.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** C, C++, JavaScript, Java  
+- **Frontend:** HTML, CSS, React.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+### 💼 Projects
+
+🔹 **Evidence Management System (Blockchain)**  
+Secure, tamper-proof legal evidence management using Solidity, IPFS, and React.  
+[View Repository](#)
+
+🔹 **Smart Attendance System (Face Recognition)**  
+Face recognition attendance system using Python, OpenCV, and machine learning.  
+[View Repository](#)
+
+🔹 **QuickBilling Website**  
+A full-stack billing platform with invoicing, analytics, and payment tracking.  
+[View Repository](#)
+
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: mmohammadfurkhan@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-furkan-munavalli-777ba8222)  
+- 📁 [Resume](#)  
+- 🖥️ [GitHub](https://github.com/mohammadfurkanmunavalli)
+
+---
+
