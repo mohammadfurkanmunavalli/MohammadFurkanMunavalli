@@ -41,7 +41,7 @@ A full-stack billing platform with invoicing, analytics, and payment tracking.
 
 - 📧 Email: mmohammadfurkhan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-furkan-munavalli-777ba8222)  
-- 📁 [Resume](#)  
+- 📁 [Resume](./MohammadFurkanMunavalli.pdf)
 - 🖥️ [GitHub](https://github.com/mohammadfurkanmunavalli)
 
 ---
